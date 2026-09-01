@@ -17,7 +17,7 @@
 7. [Deliverables Checklist](#deliverables-checklist)
 8. [Questions and Answers](#questions-and-answers)
 9. [Verification Tests](#verification-tests)
-10. [Troubleshooting](#troubleshooting)
+
 
 ---
 
